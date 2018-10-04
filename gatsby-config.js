@@ -1,10 +1,10 @@
 module.exports = {
    pathPrefix: `/`,
    siteMetadata: {
-      title: 'Dante Calderón',
-      author: 'Dante Calderón',
-      description: 'Dante Hemerson Calderón Vasquez, Programmer',
-      siteUrl: 'https://dantecalderon.com'
+      title: 'Jon Koldo Arteaga',
+      author: 'Jon Koldo Arteaga',
+      description: 'Jon Koldo Arteaga Iribarren',
+      siteUrl: 'https://www.jonkoldoarteaga.eus'
    },
    plugins: [
       'gatsby-plugin-react-helmet',
@@ -110,8 +110,8 @@ module.exports = {
       {
          resolve: `gatsby-plugin-manifest`,
          options: {
-            name: 'Dante Calderón',
-            short_name: 'Dante',
+            name: 'Jon Koldo Arteaga',
+            short_name: 'jkarteaga',
             start_url: '/',
             background_color: '#1976d2',
             theme_color: '#1976d2',
