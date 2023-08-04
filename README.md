@@ -1,4 +1,4 @@
-### Jon Koldo Arteaga 👋
+### Jon Koldo Arteaga 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F975F&width=435&lines=%F0%9F%91%8B+Hi!!;My+name+is+Jon+Koldo+Arteaga%2C+ntmu." alt="Typing SVG" /></a></div>
 
