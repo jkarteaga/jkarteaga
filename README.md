@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14B838&center=true&vCenter=true&width=435&height=100&lines=%F0%9F%91%8B+Hi!;I%C2%B4m+Jon+Koldo+Arteaga.;Welcome+to+my+profile!;+%F0%9F%93%9A+Always+learning!%E2%80%83)](https://git.io/typing-svg)
+<img src="https://custom-icon-badges.demolab.com/badge/Bilbao-Basque_Country-green?style=for-the-badge&logo=location&logoColor=white" />
 <details><summary>📫<b>  How to Reach me:</b> </summary>
 
 <p align="center">
