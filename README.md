@@ -1,10 +1,10 @@
-### Jon Koldo Arteaga 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0F975F&width=435&lines=%F0%9F%91%8B+Hi!!;My+name+is+Jon+Koldo+Arteaga%2C+ntmu." alt="Typing SVG" /></a></div>
 
-## 📫 How to Reach me:
+<details><summary>📫<b>  How to Reach me:</b> </summary>
 
-<p align="left">
+<p align="center">
+
     <a href="https://www.jonkoldoarteaga.eus/">
         <img src="https://img.shields.io/badge/%20-jonkoldoarteaga.eus-black?color=14171A&labelColor=1dbaba&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=" />
     </a>
@@ -18,6 +18,12 @@
         <img src="https://img.shields.io/badge/%20-jonkoldoarteaga@pm.me-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
     </a>
 </p>
+
+
+</details>
+
+
+
 
 <!--
 **jkarteaga/jkarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
